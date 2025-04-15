@@ -1,0 +1,23 @@
+﻿Сборка начата 13.03.2025 16:46:38.
+Уровень детализации журнала: Normal.     1>Проект "D:\Универ\MP\lab3\Lab3\Lab3.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "Lab3\x64\Debug\Lab3.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Универ\MP\lab3\Lab3\x64\Debug\Lab3.exe" /INCREMENTAL /ILK:"Lab3\x64\Debug\Lab3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Универ\MP\lab3\Lab3\x64\Debug\Lab3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Универ\MP\lab3\Lab3\x64\Debug\Lab3.lib" /MACHINE:X64 Lab3\x64\Debug\Combi.obj
+         Lab3\x64\Debug\Lab3.obj
+         Lab3\x64\Debug\Salesman.obj
+         Lab3.vcxproj -> D:\Универ\MP\lab3\Lab3\x64\Debug\Lab3.exe
+       FinalizeBuildStatus:
+         Файл "Lab3\x64\Debug\Lab3.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Lab3\x64\Debug\Lab3.tlog\Lab3.lastbuildstate".
+     1>Сборка проекта "D:\Универ\MP\lab3\Lab3\Lab3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.18
