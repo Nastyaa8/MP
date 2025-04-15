@@ -1,0 +1,24 @@
+﻿Сборка начата 09.03.2025 17:15:11.
+Уровень детализации журнала: Normal.     1>Проект "D:\Универ\MP\Lab_2\Lab2\Main\Main.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\Main.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt ..\..\..\Lab1\Lab1\Auxil.cpp
+         Auxil.cpp
+     1>\Lab1\Lab1\Auxil.cpp(1,1): error C1083: Не удается открыть файл источник: ..\..\..\Lab1\Lab1\Auxil.cpp: No such file or directory,
+         (компиляция исходного файла "/Lab1/Lab1/Auxil.cpp")
+         
+     1>Сборка проекта "D:\Универ\MP\Lab_2\Lab2\Main\Main.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\Универ\MP\Lab_2\Lab2\Main\Main.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         \Lab1\Lab1\Auxil.cpp(1,1): error C1083: Не удается открыть файл источник: ..\..\..\Lab1\Lab1\Auxil.cpp: No such file or directory,
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.39
